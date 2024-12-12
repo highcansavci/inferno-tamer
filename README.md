@@ -83,4 +83,4 @@ Here’s what an episode might look like:
 
 For questions or collaboration:
 - **Email:** highcsavci@gmail.com
-- **GitHub:** [Your GitHub Profile](https://github.com/highcansavci)
+- **GitHub:** [GitHub Profile](https://github.com/highcansavci)
