@@ -67,7 +67,7 @@ Here’s what an episode might look like:
 - Fires with intensities of 1, 2, or 3 spread across the grid.
 - Planes strategically move to extinguish fires while managing their stack levels.
 - The episode ends when all fires are extinguished or the time limit is reached.
-- [Watch Now]()
+- [Watch Now](multi_agent_coma.mp4)
 ---
 
 ## 📊 Performance Metrics
@@ -82,5 +82,5 @@ Here’s what an episode might look like:
 ## 🌐 Contact
 
 For questions or collaboration:
-- **Email:** highcsavci@gmail.com.com
+- **Email:** highcsavci@gmail.com
 - **GitHub:** [Your GitHub Profile](https://github.com/highcansavci)
